@@ -24,4 +24,4 @@ Each row MUIST represent a single message sent by a single user
 
 **4. Output Format**
 * Provide a summary of the data processed (e.g., "Processed 500 lines, 2 skipped").
-* display the top 5 rows of the dataset
+* Display the top 5 rows of the dataset

@@ -1,4 +1,4 @@
-## Example adhoc prompts
+## Example prompts
 
 * How many messages were sent between 1st January 2024 between 31 Dec 2024?
 * Generate a heatmap visualization of chat messages by day of week and hour of day
