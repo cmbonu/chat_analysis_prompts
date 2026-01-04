@@ -25,8 +25,8 @@ Use the template below to format the report
 *Summary*
 
 Messages: <number of messages sent in CURRENT_YEAR> (📉-x% y/y)
-Active Members : <number of unique members between START_DATE and END_DATE> (📉-9 y/y)
-Avg. 30d Retention : <average number of members that send a message in a 30 day window> (📉-6 ppts y/y)
+Active Members : <number of unique members between START_DATE and END_DATE> (📉-x y/y)
+Avg. 30d Retention : <average number of members that send a message in a 30 day window> (📉-x ppts y/y)
 
 *Top members by messages sent*
 
@@ -38,7 +38,7 @@ Avg. 30d Retention : <average number of members that send a message in a 30 day 
 
 4. <SENDER 13> : <number of message sent in CURRENT_YEAR> (📉 +x% y/y)
 
-Top 5 account for yy% of group messages in CURRENT_YEAR (up from 37% in PREVIOUS_YEAR)
+Top 5 account for yy% of group messages in CURRENT_YEAR (up from xx% in PREVIOUS_YEAR)
 
   
 
