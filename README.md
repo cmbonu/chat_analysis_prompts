@@ -7,7 +7,7 @@
 3. Add the chat file to the chatbot context
 4. Paste the contents of `structure_chat_logs.md` and run.
 5. Paste the contents of `generate_standard_report.md` to get a standard text report
-6. [Optional] Take a look at `sample_adhoc_prompts.md` foir inspirations on the kinds of question to ask
+6. [Optional] Take a look at `sample_adhoc_prompts.md` for inspiration on the kinds of question to ask
 
 ------------------------------------------------------------------------------
 Tested with Gemini Pro
